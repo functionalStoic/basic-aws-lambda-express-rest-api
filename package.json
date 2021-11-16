@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.209.0",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
     "serverless-http": "^1.5.3"
